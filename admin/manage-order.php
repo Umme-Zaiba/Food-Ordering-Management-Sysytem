@@ -82,7 +82,6 @@
                                  }
                               ?>
                            </td>
-                           <td><?php echo $status;?></td>
                            <td><?php echo $customer_name;?></td>
                            <td><?php echo $customer_contact;?></td>
                            <td><?php echo $customer_email;?></td>
