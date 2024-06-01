@@ -2,7 +2,7 @@
 
 A Database Management System Project based on FOOD ORDER :)
 
-Switch to the master branch for the code.
+**Switch to the master branch for the code.**
 
 This project manages the food to be ordered and the myriad of food items for the customers to select and order.
 
